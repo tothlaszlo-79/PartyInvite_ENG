@@ -14,6 +14,7 @@
         public static void AddResponse (GuestResponse response)
         {
             _response.Add(response);
+
         }
     }
 }
